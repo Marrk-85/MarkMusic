@@ -1,6 +1,6 @@
-━━━━━━━━━━━━━━━━━━━━ 
+ ━━━━━━━━━━━━━━━━━━━━
 
- **мαяк мυѕι¢** 
+ **мαяк** 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -18,7 +18,7 @@
 
   ## ⚡ (ɢɪᴠᴇ sᴛᴀʀ) 
  
-  ━━━━━━━━━━━━━━━━━━━━ 
+ ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center"> 
  <a href="https://github.com/Marrk-85/MarkMusic/stargazers"><img src="https://img.shields.io/github/stars/Marrk-85/MarkMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/Marrk-85/MarkMusic/network/members"> <img src="https://img.shields.io/github/forks/Marrk-85/MarkMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
@@ -26,7 +26,7 @@
  <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a> 
  </p> 
 
- ━━━━━━━━━━━━━━━━━━━━ 
+ ━━━━━━━━━━━━━━━━━━━━
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
@@ -80,7 +80,7 @@
 
  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Marrk-85/MarkMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
- ━━━━━━━━━━━━━━━━━━━━ 
+ ━━━━━━━━━━━━━━━━━━━━
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -101,7 +101,7 @@
 
  </p> 
 
-  ━━━━━━━━━━━━━━━━━━━━ 
+ ━━━━━━━━━━━━━━━━━━━━
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
